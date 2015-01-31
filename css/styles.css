@@ -1,0 +1,23 @@
+img {
+	border: 2px solid black;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+}
+a {
+	color: magenta;
+}
+li {
+	list-style-type: square;
+}
+body {
+	background-color: lavender
+}
+a {
+	color: #00CCFF;
+}
